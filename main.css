@@ -1,0 +1,12 @@
+body {
+    color: #333;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+.btn-danger {
+    background-color: #800000;
+    border-color: #800000;
+}
